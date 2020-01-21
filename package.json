@@ -1,6 +1,6 @@
 {
   "name": "hello-friend",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Say hello to everyone",
   "main": "index.js",
   "scripts": {
