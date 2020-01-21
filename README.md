@@ -1,5 +1,5 @@
 # What Is Hello Friend?
-Says hello to anyone 
+Says hello to anyone [hello-friend](https://www.npmjs.com/package/hello-friend)
 # How To Install It?
 Run this command in your command line:
 ```bash
