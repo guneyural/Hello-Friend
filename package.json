@@ -1,0 +1,32 @@
+{
+  "name": "hello-friend",
+  "version": "1.0.0",
+  "description": "Say hello to everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "./spec/test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urlGuney/Hello-Friend.git"
+  },
+  "keywords": [
+    "hello",
+    "front-end",
+    "back-end",
+    "javascript",
+    "module"
+  ],
+  "author": "Guney Ural",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urlGuney/Hello-Friend/issues"
+  },
+  "homepage": "https://github.com/urlGuney/Hello-Friend#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "dependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
